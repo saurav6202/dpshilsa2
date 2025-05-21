@@ -143,6 +143,12 @@ nav ul li a:hover::after {
     color: var(--accent-green);
     /* Change to any color you want */
 }
+.swiper-container {
+    height: 70vh;
+    width: 100vw;
+    overflow: hidden;
+    /* position: relative; */
+}
 
 
 .hero {
